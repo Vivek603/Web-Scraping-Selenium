@@ -7,5 +7,7 @@ Output :
 
 Pip requirements :
 pip install selenium
+
+
 pip install webdriver-manager
 
